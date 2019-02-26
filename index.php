@@ -1,3 +1,7 @@
 <?php
-echo "fala mano";
+
+echo "fala mano 456";
+
+echo "olá de novo";
+
 ?>
